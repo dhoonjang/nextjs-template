@@ -6,8 +6,8 @@ import './globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'dhoonjang next js template',
-  description: "dhoonjang's next js template",
+  title: 'dhoonjang nextjs template',
+  description: 'template for nextjs project',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -2,5 +2,5 @@
 
 - next 13
 - app router
-- tailwindcss, scss
+- tailwindcss, scss, svgr
 - eslint, prettier
